@@ -4,3 +4,4 @@ Necessario fazer conta no Twilio, pegar o SID e o TOKEN de sua conta e adicionar
 Adicionar seu numero de celular ao codigo e na sandbox do twilio para conseguir receber a mensagem.
 
 Próximas mudanças - Adicionar mais sites compatíveis.
+Próxima mudança - Adicionar uma interface para lidar com os sites.
